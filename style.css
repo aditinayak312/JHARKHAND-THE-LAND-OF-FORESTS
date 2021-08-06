@@ -1,0 +1,50 @@
+body{
+    background-color: aqua;
+    text-align: center;
+
+}
+h3{
+    text-align: center;
+    color: cornflowerblue;
+    size:50px;
+    font-size:30px;
+}
+h2{
+    color: darkgoldenrod;
+    size:50px;
+    text-align: center;
+    font-size:30px;
+}
+h4{
+    text-align: center;
+    color: darkorchid;
+    size:50px;
+    font-size:30px;
+}
+h5{
+    text-align: center;
+    color: darkorchid;
+    size:50px;
+    font-size:30px;
+}
+button{
+    color: darkred;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:yellow ;
+}
+h1{
+    text-align:center ;
+    size:200px;
+    color: deeppink;
+}
+h6{
+    size:200px;
+    color:blue;
+    text-align:center;
+    font-size:50px;
+
+}
