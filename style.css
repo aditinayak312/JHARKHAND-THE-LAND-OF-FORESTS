@@ -3,12 +3,6 @@ body{
     text-align: center;
 
 }
-h3{
-    text-align: center;
-    color: cornflowerblue;
-    size:50px;
-    font-size:30px;
-}
 h2{
     color: darkgoldenrod;
     size:50px;
@@ -27,7 +21,7 @@ h5{
     size:50px;
     font-size:30px;
 }
-button{
+#wtfbutton{
     color: darkred;
     text-align: center;
     padding-top: 20px;
@@ -42,9 +36,41 @@ h1{
     color: deeppink;
 }
 h6{
-    size:200px;
+    size:180px;
     color:blue;
     text-align:center;
     font-size:50px;
 
+}
+#cmbutton{
+    color: darkred;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:yellow
+}
+.menu{
+    list-style:none;
+    position:fixed;
+    top:0px;
+    width:100%;
+    background:white;
+    margin-top:0px;
+    z-index:30;
+    cursor:pointer;
+    font-family: 'Indie Flower', cursive;  
+}
+.items{
+    display:inline;
+    padding-right:30px;
+    padding-left:30px;
+    font-size:30px;
+    color: darkred;
+}
+.items:hover{
+    background:linear-gradient(#FFFF00 0%, #FF7F50 100%);
+    font-size:40px;
+    text-decoration:underline;
 }
