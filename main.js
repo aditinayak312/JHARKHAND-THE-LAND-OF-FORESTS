@@ -10,7 +10,7 @@ function change1(){
     count++;
 
 }
-var cm=["satyameva jayate2.jpg","Babulal.jpg","arjun munda.jpg","Shibu_Soren.jpg","arjun munda.jpg","madu koda.jpg","Shibu_Soren.jpg","arjun munda.jpg","hemnat soren.jpg","raghubar das.jpg","hemnat soren.jpg"];
+var cm=["satyameva jayate2.jpg","Babulal.jpg","arjun munda.jpg","sibusoren.jpg","arjun munda.jpg","madhu_koda_.jpg","sibusoren.jpg","arjun munda.jpg","hemantsoren.jpeg","Raghubar-Das-.jpg","hemantsoren.jpeg"];
 var cfmname=["Chief ministers of Jharkhand","Babulal Marandi","Arjun Munda","Shibu Soren","Arjun Munda","Madhu Koda","Shibu Soren","Arjun Munda","Hemant Soren","Raghubar Das","Hemant Soren"];
 var count=0;
 function change(){
